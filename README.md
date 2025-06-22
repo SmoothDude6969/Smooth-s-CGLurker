@@ -6,6 +6,8 @@ Reach out to @deadfish7 on Discord for any questions!
 
 ## Installation:
 
+### (Right-Alt / Right-Option (Mac) to open interface in-game)
+
 Video Walkthrough: https://youtu.be/1gCgOtmrtMg
 
 1. Click the green `<> Code v` button
