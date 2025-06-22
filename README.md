@@ -2,7 +2,12 @@
 
 Reach out to @deadfish7 on Discord for any questions!
 
+(Firefox support coming soon)
+
 ## Installation:
+
+Video Walkthrough: https://youtu.be/1gCgOtmrtMg
+
 1. Click the green `<> Code v` button
 2. Click `Download ZIP`
 3. Unzip the downloaded file in a location of your choice (this will create a folder called `PublicLurker-main`)
