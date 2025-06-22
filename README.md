@@ -5,7 +5,7 @@ Reach out to @deadfish7 on Discord for any questions!
 ## Installation:
 1. Click the green `<> Code v` button
 2. Click `Download ZIP`
-3. Unzip the downloaded file in a location of your choice (this will create a folder called `PublicLurker-main`
+3. Unzip the downloaded file in a location of your choice (this will create a folder called `PublicLurker-main`)
 4. Go to `chrome://extensions` in browser
 5. Enable developer mode if not already done so (top right corner)
 6. Click `Load unpacked`
