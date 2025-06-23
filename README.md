@@ -2,8 +2,6 @@
 
 Reach out to @deadfish7 on Discord for any questions!
 
-(Firefox support coming soon)
-
 ## Installation:
 
 ### (Right-Alt / Right-Option (Mac) to open interface in-game)
