@@ -18,7 +18,7 @@ Video Walkthrough: https://youtu.be/1gCgOtmrtMg
 4. Go to `chrome://extensions` in browser
 5. Enable developer mode if not already done so (top right corner)
 6. Click `Load unpacked`
-7. Select the `PublicLurker-main` folder
+7. Select the `PublicLurker-CG-main` folder
 8. Open miniblox.io - you should see a banner `PublicLurker Version {current version}` at the top of the tab
 9. Press right-alt / right-option (Mac) to open interface (open inventory to access mouse to click interface in-game)
 10. Enjoy :D
