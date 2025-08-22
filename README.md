@@ -1,6 +1,10 @@
-# PublicLurker 7.5.3, Release1.1
+# PublicLurker 7.5.3, Release1.1 // Crazy Games - beta 1
 
-Reach out to @deadfish7 on Discord for any questions!
+Reach out to @deadfish7 on Discord for any questions conerning the original code.
+
+## Crazy Games - Beta 1
+
+### I've made a couple of edits to make PublicLurker compatible with CrazyGames, I hope you all enjoy it :D ~heythereu
 
 ## Installation:
 
@@ -22,4 +26,4 @@ Video Walkthrough: https://youtu.be/1gCgOtmrtMg
 ## Compatible With:
 UnverifiedV2 (Tampermonkey): https://raw.githubusercontent.com/wytlines100/UnverifiedV2/refs/heads/main/client.js
 
-Back2Basics: https://chromewebstore.google.com/detail/back-2-basics/ibofdlnmieodappidajpeamlpdagkjca?hl=en-US&pli=1
+Back2Basics: https://chromewebstore.google.com/detail/back-2-basics/ibofdlnmieodappidajpeamlpdagkjca?hl=en-US&pli=1 :O Woahh it's me again, you should install this
