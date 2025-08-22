@@ -2,7 +2,7 @@
   "name": "Smooth's CGLurker",
   "version": "1.0",
   "description": "PublicLurker Client release by DeadFish7 for Miniblox - CG edition optimized",
-  "manifest_version": 1,
+  "manifest_version": 3,
   "permissions": ["declarativeNetRequest", "scripting", "tabs"],
   "host_permissions": ["https://miniblox.online/*"],
   "declarative_net_request": {"rule_resources": [{"id": "ruleset_1", "enabled": true, "path": "rules.json"}]},
